@@ -40,6 +40,7 @@
 - Deployment jobs in Azure pipelines, Runonce, Rolling, canary strategies
 - Azure Pipeline advanced configuration  - branch filter , scheduled builds 
 - Reduce build time in azure pipelines
+- Configure permissions for users in Pipelines, Service Connections.
 - Azure pipelines troubleshooting with debug
 - Reusable pipeline elements, including YAML templates, task groups, variables, and variable groups
 - Monitor pipeline health, including failure rate, duration, and flaky tests
