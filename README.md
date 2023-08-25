@@ -13,6 +13,7 @@
 - Queries in work items
   
   > **Task 1:** Create a agile Project , write a query to retrieve bugs
+  
   > **Task 2:** example
   
 - Integrate a repository with Azure Boards
