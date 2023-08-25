@@ -11,7 +11,10 @@
 - Azure Boards overview
 - Work item types  - different use case scenario
 - Queries in work items
+  
   > **Task 1:** Create a agile Project , write a query to retrieve bugs
+  > **Task 2:** example
+  
 - Integrate a repository with Azure Boards
 - Integrate Azure Pipelines and GitHub Actions with work item tracking tools
 - Identify appropriate metrics related to flow of work, such as cycle times, time to recovery, and lead time
