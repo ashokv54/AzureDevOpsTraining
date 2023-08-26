@@ -14,7 +14,7 @@
   
   > **Task 1:** Create a agile Project , write a query to retrieve bugs
   
-  > **Task 2:** example
+  > **Task 2:** integrate github with Azure boards, fix an issue from commit
   
 - Integrate a repository with Azure Boards
 - Integrate Azure Pipelines and GitHub Actions with work item tracking tools
