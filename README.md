@@ -22,6 +22,11 @@
 - Document a project by using tools, such as wikis and process diagrams
 - Custom dashboards in Azure Boards
 
+    
+  > **Task 3:** Configure dashboard and add all chart type
+
+  > **Task 4:** Assign work items in sprint and capacity planning
+
 ### Section 2
 
 - Azure repos overview , git basics
