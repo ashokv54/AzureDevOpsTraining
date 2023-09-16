@@ -32,9 +32,26 @@
 - Azure repos overview , git basics
 - Branching strategies for the source code - feature, relaese, trunk . 
 - Pull request workflow by using branch policies and branch protections
+  > **Task 5:** Create a repo in azure Repos and push code
+  
+  > **Task 6:** Create a new develop branch from master
+
+  > **Task 7:** Create and resolve conflicts in branches (learn)
+
 - Different merging strategies in Azure Repos
 - Branch merging restrictions by using branch policies and branch protections
 - Configure permissions in the source control repository
+  > **Task 8:** Merge a branch using squash merge with PR
+
+  > **Task 9:** Merge a branch using rebase with some commits ahead
+  
+  > **Task 10:** Create branch policies for main branches
+  
+  > **Task 11:** Build validation , status checks
+  
+  > **Task 12:** Add reviewers in PR , link work items at all stages  commit, pr , merge
+  
+  > **Task 13:** Lock a branch 
 
 ### Section 3
 
@@ -57,6 +74,22 @@
 - Build and release pipelines in Github Actions
 - Secret management in Pipelines and github actions
 
+  > **Task 14:** Create CI pipeline for favourite programming language - Microsoft Hosted
+  
+  > **Task 15:** Use self hosted for same CI pipeline
+  
+  > **Task 16:** Create multiple agents from single VM
+  
+  > **Task 17:** For CI , use YAML and Classic pipelines
+  
+  > **Task 17:**  Integrate SonarQube , MendBolt
+  
+  > **Task 18:**  Deploy app to Azure WebApp
+  
+  > **Task 19:** Include secrets in pipelines using key vault
+  
+  > **Task 20:** Implement CI/CD pipeline for app using Github Actions include Code scanning
+
 ### Section 4
 
 - Azure Artifacts overview
@@ -70,6 +103,14 @@
 - Automate analysis of source code by using GitHub code scanning, GitHub secrets scanning, pipeline-based scans, and SonarQube
 - Automate analysis of licensing, vulnerabilities, and versioning of open-source components by using Mend Bolt and GitHub Dependency Scanning
 
+  > **Task 21:** Create ARM deployment stage with ADO pipeline
+  
+  > **Task 22:** Create resources using terraform with ADO pipeline
+  
+  > **Task 23:** Include security scanning for Resources using Code
+  
+  > **Task 24:** DependaBot, security Enablement in Github Repos
+
 ### Section 5
 
 - Docker introduction , VM vs Containers
@@ -82,3 +123,15 @@
 - Kubernetes cordon, taints, node affinity , corndon etc.
 - Kubernetes ingress basics
 - Working with ChatGPT for code creation for dockerfile, Kubernetes yaml files
+
+  > **Task 25:** Installation of Docker, Minikube , Docker Kubernetes extension
+  
+  > **Task 26:** Create docker image using DockerFile
+  
+  > **Task 27:** Store container data in volumes
+  
+  > **Task 28:** Create docker image using DockerFile
+  
+  > **Task 29:** Deploy kubernetes yaml files in minikube and AKS
+  
+  > **Task 30:** Expose application to access outside
